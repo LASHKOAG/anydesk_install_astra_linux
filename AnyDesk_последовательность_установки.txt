@@ -1,0 +1,7 @@
+libpangox-1.0-0_0.0.2-5+b2_amd64.deb
+
+libgtkglext1_1.2.0-4_amd64.deb
+
+libminizip1_1.1-8+b1_amd64.deb
+
+anydesk_6.1.1-1_amd64.deb
